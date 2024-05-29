@@ -1,0 +1,50 @@
+========== HEADER ==========
+.nav__logo
+XCOMPANY
+
+.nav__link
+HOME - ABOUT US - COMMUNITY - NEWS - CONTACT
+
+
+========== HOME ==========
+.home__subtitle
+Unknown Zone
+
+.home__title
+ERROR 404
+
+.home__description
+We can't seem to find the page you're looking for, 
+you need to come back to earth.
+
+.home__button
+Return To Earth
+
+
+/*====== Blob 1 ====== */
+38% 62% 66% 34%/60% 41% 59% 40%
+
+59% 41% 55% 45%/64% 22% 78% 36%
+
+59% 41% 35% 65%/46% 67% 33% 54%
+
+/*====== Blob 2 ======*/
+59% 41% 19% 81%/34% 72% 28% 66%
+
+78% 22% 20% 80%/53% 46% 54% 47%
+
+57% 43% 40% 60%/49% 34% 66% 51%
+
+/*====== Blob 3 ======*/
+57% 43% 40% 60%/49% 34% 66% 51%
+
+51% 49% 30% 70%/37% 63% 37% 63%
+
+51% 49% 28% 72%/77% 75% 25% 23%
+
+/*====== Blob 4 ======*/
+78% 22% 20% 80%/53% 46% 54% 47%
+
+65% 35% 42% 58%/64% 28% 72% 36%
+
+32% 68% 46% 54%/29% 22% 78% 71%
